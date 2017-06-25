@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/dakara.eclipse.commander.feature_1.0.1.jar" id="dakara.eclipse.commander.feature" version="1.0.1"/>
+   <feature url="features/dakara.eclipse.commander.feature_1.0.2.jar" id="dakara.eclipse.commander.feature" version="1.0.2"/>
 </site>
