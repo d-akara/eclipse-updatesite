@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/dakara.eclipse.commander.feature_1.0.5.jar" id="dakara.eclipse.commander.feature" version="1.0.5">
+   <feature url="features/dakara.eclipse.commander.feature_1.0.6.jar" id="dakara.eclipse.commander.feature" version="1.0.6">
       <category name="dakara.eclipse.features"/>
    </feature>
    <category-def name="dakara.eclipse.features" label="Eclipse Enhancements">
