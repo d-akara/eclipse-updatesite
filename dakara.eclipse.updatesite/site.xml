@@ -3,6 +3,9 @@
    <feature url="features/dakara.eclipse.commander.feature_1.0.9.jar" id="dakara.eclipse.commander.feature" version="1.0.9">
       <category name="dakara.eclipse.features"/>
    </feature>
+   <feature url="features/dakara.eclipse.commander.feature_1.1.1.jar" id="dakara.eclipse.commander.feature" version="1.1.1">
+      <category name="dakara.eclipse.features"/>
+   </feature>
    <category-def name="dakara.eclipse.features" label="Eclipse Enhancements">
       <description>
          Enhancement upgrades to eclipse user interface
